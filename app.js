@@ -2,7 +2,7 @@
    TodoList — Victor Rivera
  */
 
-const API = "http://localhost:8080";
+const API = "https://apirest-todolist-completov2-production.up.railway.app";
 
 let auth        = null;   // cabecera Basic
 let currentUser = null;   // { id, username, email, fullname, role }
